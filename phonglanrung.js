@@ -1,5 +1,5 @@
    //<![CDATA[
-	  // var url_ppp = 'http://phonglanrung.vn';
+	 var url_ppp = 'http://phonglanrung.vn';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
