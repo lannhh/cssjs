@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://phonglanrung.vn/hoa-tet-da-lat.html' target='_blank'><img src='http://phonglanrung.vn/uploads/images/sanpham/hoa-phong-lan-nestoer-dragon.jpg' width='500px'/>Hoa tết đà lạt</a> . Cực đẹp cực rẻ<h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://phonglanrung.vn/hoa-tet-da-lat.html/' target='_blank'><img src='http://phonglanrung.vn/uploads/images/sanpham/hoalydalat3.jpg' width='500px'/>Hoa tết đà lạt</a> Chất Lượng . Giá Rẻ Cực Sốc. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
